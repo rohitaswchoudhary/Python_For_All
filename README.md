@@ -52,5 +52,5 @@ This repository is created to learn python in Collaboration
 #### After completing the above steps I will recomend you to visit the [python official website](https://www.python.org/doc/),
 #### there you will get to know python more deeply by reading the documentation provided by python community.
 
-
+*Now you are good to go with Data structures and algorithums in python Language.
 
